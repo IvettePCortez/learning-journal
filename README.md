@@ -14,4 +14,11 @@ Working with my peer programmer was a big help for me, especially because she ha
 LJ Code 201 - Day 6
 
 Today I learned that what Brandy said the first day of class was ABSOLUTELY correct.  I fell deep into that pit of despair later in the afternoon when I was unable to log my functions onto the browser.  The more shuffling about I did with my code, the more it seemed to break, and the less I felt capable of what I am learning.  There were many helpers along the way, yet nothing really seemed to sink in fully - how frustrating!
-Later in the evening, I realized that I had been really hungry for a while.  In realizing this, I packed up my belongings, walked to my car, drove to PCC to pig out on some pumpkin ravioli and cherry tomatoes, went home, and - EUREKA! - my Id tags were off, thus rendering my code useless.  After making those fixes, code works (sort of).  Moral of the story... ravioli save the day! 
+Later in the evening, I realized that I had been really hungry for a while.  In realizing this, I packed up my belongings, walked to my car, drove to PCC to pig out on some pumpkin ravioli and cherry tomatoes, went home, and - EUREKA! - my Id tags were off, thus rendering my code useless.  After making those fixes, code works (sort of).  Moral of the story... ravioli save the day!
+
+LJ Code 201 - Day 9
+
+Today I learned to listen to myself.  I had my site working relatively well, my table had the data and, while it was a bit off cells, it was present and visible.  My brain was fried and I knew I needed to take a break, submit what I had and go on my way - it was the right thing to do.  I did not do the right thing.  I stayed, tried to make it "perfect"... and now, I have a missing table.  
+It is infuriating, because I knew I had to rest.  I knew that I could no longer code.  I didn't listen. Now I have to debug. Again.  
+
+Note to self: Listen to yourself! 
