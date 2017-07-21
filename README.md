@@ -21,4 +21,10 @@ LJ Code 201 - Day 9
 Today I learned to listen to myself.  I had my site working relatively well, my table had the data and, while it was a bit off cells, it was present and visible.  My brain was fried and I knew I needed to take a break, submit what I had and go on my way - it was the right thing to do.  I did not do the right thing.  I stayed, tried to make it "perfect"... and now, I have a missing table.  
 It is infuriating, because I knew I had to rest.  I knew that I could no longer code.  I didn't listen. Now I have to debug. Again.  
 
-Note to self: Listen to yourself! 
+Note to self: Listen to yourself!
+
+LJ Code 201 - Day 10
+
+Today I learned that even though the logic may be there, bugs find a way.  I have been feeling as an impostor for most of this week, but today I thought about all that I have learned in the past 2 weeks - it's a lot! I can't possibly be so hard on myself.  Having a growth mindset is key.  I know that I can learn, and I have to trust that I will continue to develop into a strong web dev. It won't happen over night, but with practice and grit, it will happen!
+
+Note to self:  Have a beer, don't be so hard on yourself! 
