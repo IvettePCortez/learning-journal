@@ -27,4 +27,11 @@ LJ Code 201 - Day 10
 
 Today I learned that even though the logic may be there, bugs find a way.  I have been feeling as an impostor for most of this week, but today I thought about all that I have learned in the past 2 weeks - it's a lot! I can't possibly be so hard on myself.  Having a growth mindset is key.  I know that I can learn, and I have to trust that I will continue to develop into a strong web dev. It won't happen over night, but with practice and grit, it will happen!
 
-Note to self:  Have a beer, don't be so hard on yourself! 
+Note to self:  Have a beer, don't be so hard on yourself!
+
+LJ Code 201 - Day 11
+
+Today I learned that I am being deterred by one of my personality traits.  I'm some sort of mix between stubborn and a perfectionist.  What I realized this means at this point is that I am missing out on credit because I am too proud (that's the word!) to turn in an assignment that is not entirely finished, or presentable.  This is a learning experience, not an exercise in finding perfection. 
+I am learning that coding is not the only thing I am learning through this course.  This is a life and character changing experience.  
+
+Note to self: Be open to growth and change.  
