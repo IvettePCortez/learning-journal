@@ -31,7 +31,15 @@ Note to self:  Have a beer, don't be so hard on yourself!
 
 LJ Code 201 - Day 11
 
-Today I learned that I am being deterred by one of my personality traits.  I'm some sort of mix between stubborn and a perfectionist.  What I realized this means at this point is that I am missing out on credit because I am too proud (that's the word!) to turn in an assignment that is not entirely finished, or presentable.  This is a learning experience, not an exercise in finding perfection. 
+Today I learned that I am being deterred by one of my personality traits.  I'm some sort of mix between stubborn and a perfectionist.  What I realized this means at this point is that I am missing out on credit because I am too proud (that's the word!) to turn in an assignment that is not entirely finished, or presentable.  This is a learning experience, not an exercise in finding perfection.
 I am learning that coding is not the only thing I am learning through this course.  This is a life and character changing experience.  
 
 Note to self: Be open to growth and change.  
+
+LJ Code 201 - Day 13
+
+Today I learned that I actually really like breaking my code.  This whole time I have focused on how much I like building things/making them work - like building puzzles as a child BUT, I realized that I really just liked breaking it apart in order to re-build it.  
+I have lost track of the times that my code for BusMall has broken this week, yet every time it's happened instead of freaking out, I get really excited.  I know (with some help) that I can re-build it! Nothwithstanding, I have to catch up and make up for broken code time, yet coming to this conclusion was exciting.  I did have ravioli again last night... hmm, maybe that had to do with it!
+
+Note to self: Breaking code is not failing, it's growing!
+              Ravioli helps when reflecting. 
