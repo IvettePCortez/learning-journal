@@ -42,4 +42,9 @@ Today I learned that I actually really like breaking my code.  This whole time I
 I have lost track of the times that my code for BusMall has broken this week, yet every time it's happened instead of freaking out, I get really excited.  I know (with some help) that I can re-build it! Nothwithstanding, I have to catch up and make up for broken code time, yet coming to this conclusion was exciting.  I did have ravioli again last night... hmm, maybe that had to do with it!
 
 Note to self: Breaking code is not failing, it's growing!
-              Ravioli helps when reflecting. 
+              Ravioli helps when reflecting.
+
+LJ Code 201 - Day 15
+
+Today I learned that I can be an integral part of a team. The team I am part of is strong and has a variety of characteristics that will more than certainly appear in my future work teams.  It is easy for me to step into the set mindset and think that I am not up to par with some mates, yet I push myself to grow and know that I have skills that can benefit the outcome of the product.  
+I am guaranteed some conflicts, considering the strong engineering background of my teammates.  How will I mitigate these conflicts as the week progresses?  Empathy and patience for myself. 
