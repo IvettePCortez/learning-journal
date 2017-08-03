@@ -47,4 +47,10 @@ Note to self: Breaking code is not failing, it's growing!
 LJ Code 201 - Day 15
 
 Today I learned that I can be an integral part of a team. The team I am part of is strong and has a variety of characteristics that will more than certainly appear in my future work teams.  It is easy for me to step into the set mindset and think that I am not up to par with some mates, yet I push myself to grow and know that I have skills that can benefit the outcome of the product.  
-I am guaranteed some conflicts, considering the strong engineering background of my teammates.  How will I mitigate these conflicts as the week progresses?  Empathy and patience for myself. 
+I am guaranteed some conflicts, considering the strong engineering background of my teammates.  How will I mitigate these conflicts as the week progresses?  Empathy and patience for myself.
+
+LJ Code 201 - Day 17
+
+Today I learned that I am still not as patient and empathetic as I can be.  There is room for improvement. There were moments today where I lost my focus and took some group dynamic events too personally.  I lost track of the fact that the end product is the most important piece right now.  As a member of a team, I have to keep the goal in mind, communicate effectively and listen intently.
+
+Note to self: Breathe and communicate. 
