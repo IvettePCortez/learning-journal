@@ -57,4 +57,12 @@ Note to self: Breathe and communicate.
 
 LJ Code 201 - Day 19
 
-Today I learned that there is a pride that comes with completing a product that you did not know how to build 5 days ago.  I read through my last journals, and one thing I can see is growth.  I had to work on patience, I had to work on balancing ego with pressure to complete something.  In the end, everything works out, if you are open to growth. 
+Today I learned that there is a pride that comes with completing a product that you did not know how to build 5 days ago.  I read through my last journals, and one thing I can see is growth.  I had to work on patience, I had to work on balancing ego with pressure to complete something.  In the end, everything works out, if you are open to growth.
+
+Note to self:  Growth is not easy, nor does it come without compromise.  Learn to take it all in stride.  Let go of the ego.
+
+LJ Code 201 - Day 20
+
+This month I learned that making changes in my life, and friends in my 30s is a challenge.  Yet, regardless of the challenge, they are both things that I can do if I maintain a positive mindset - a growth mindset - they are possible.  Through this program, I have learned more than I thought I would in such a short time.  I am capable of more after all!  I have made strong connections that will likely lead to exciting projects in the future, and most importantly, I have learned more about myself;  what my true capabilities are, what I need to work on and being open to failure.
+
+Note to self: You can do it!
