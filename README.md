@@ -53,4 +53,8 @@ LJ Code 201 - Day 17
 
 Today I learned that I am still not as patient and empathetic as I can be.  There is room for improvement. There were moments today where I lost my focus and took some group dynamic events too personally.  I lost track of the fact that the end product is the most important piece right now.  As a member of a team, I have to keep the goal in mind, communicate effectively and listen intently.
 
-Note to self: Breathe and communicate. 
+Note to self: Breathe and communicate.
+
+LJ Code 201 - Day 19
+
+Today I learned that there is a pride that comes with completing a product that you did not know how to build 5 days ago.  I read through my last journals, and one thing I can see is growth.  I had to work on patience, I had to work on balancing ego with pressure to complete something.  In the end, everything works out, if you are open to growth. 
